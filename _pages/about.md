@@ -11,7 +11,7 @@ I am a MSc student at Department of Computer Science and Engineering, The Chines
 
 Research Experience
 ------
-- Student Helper, Prof. James Cheng, CUHK (Mar 2024 - Present)
+- Student Helper, Prof. James Cheng, CUHK CSE (Mar 2024 - Present)
 
 Work Experience
 ------
