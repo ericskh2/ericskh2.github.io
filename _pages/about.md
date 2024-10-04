@@ -15,8 +15,11 @@ Research Experience
 
 Work Experience
 ------
+- Part-time IT Assistant, JUPAS Office, The University of Hong Kong (Jul 2024 - Aug 2024)
 - Student Programmer, The Bank of East Asia, Limited (Jul 2023 - Jun 2024)
 
 Selected Awards
 ------
+- Shanghai Commercial Bank Scholarships (2024)
 - HKSAR Government Scholarship (2023)
+- Bright Future Scholarships for Outstanding Engineering Students (2023)
