@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a MSc student at the [Department of Computer Science and Engineering]([https://pages.github.com](https://www.cse.cuhk.edu.hk/)), The Chinese University of Hong Kong. Previously, I received my BSc in Computer Science degree from [City University of Hong Kong](https://www.cityu.edu.hk/).
+I am a MSc student at the [Department of Computer Science and Engineering]((https://www.cse.cuhk.edu.hk/)), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). Previously, I received my BSc in Computer Science degree from [City University of Hong Kong](https://www.cityu.edu.hk/).
 
 A data-driven personal website
 ======
