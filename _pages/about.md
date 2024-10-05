@@ -20,7 +20,7 @@ Work Experience
 
 Education
 ------
-- MSc in Computer Science, The Chinese University of Hong Kong (Aug 2024 - Jul 2025)
+- MSc in Computer Science, The Chinese University of Hong Kong (Aug 2024 - Present)
 - BSc in Computer Science, City University of Hong Kong (Aug 2020 - Jun 2024)
 
 Selected Awards
