@@ -18,8 +18,18 @@ Work Experience
 - Part-time IT Assistant, JUPAS Office, The University of Hong Kong (Jul 2024 - Aug 2024)
 - Student Programmer, The Bank of East Asia, Limited (Jul 2023 - Jun 2024)
 
+Education
+------
+- MSc in Computer Science, The Chinese University of Hong Kong (Aug 2024 - Jul 2025)
+- BSc in Computer Science, City University of Hong Kong (Aug 2020 - Jun 2024)
+
 Selected Awards
 ------
 - Shanghai Commercial Bank Scholarships (2024)
 - HKSAR Government Scholarship (2023)
 - Bright Future Scholarships for Outstanding Engineering Students (2023)
+
+Skills
+------
+- Programming: Python, Java, C/C++, SQL, HTML, CSS, JavaScript
+- Language: Cantonese (Native), English (Fluent), Mandarin (Fluent)
