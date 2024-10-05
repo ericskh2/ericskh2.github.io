@@ -29,6 +29,8 @@ Selected Awards
 - HKSAR Government Scholarship (2023)
 - Bright Future Scholarships for Outstanding Engineering Students (2023)
 
+- IEEEXtreme 17.0: 256th / 7091 teams (Top 4%)
+
 Skills
 ------
 - Programming: Python, Java, C/C++, SQL, HTML, CSS, JavaScript
