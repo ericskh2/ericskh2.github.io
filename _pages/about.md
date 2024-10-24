@@ -29,6 +29,11 @@ Selected Awards
 - HKSAR Government Scholarship (2023)
 - Reasonable Software Scholarships (2022)
 
+Programming
+------
+- Codeforces: [ericskh2](https://codeforces.com/profile/ericskh2)
+- LeetCode: [ericskh12](https://leetcode.com/u/ericskh12/)
+
 Skills
 ------
 - Programming: Python, Java, C/C++, SQL, HTML, CSS, JavaScript
