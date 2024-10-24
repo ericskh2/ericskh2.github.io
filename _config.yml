@@ -21,7 +21,7 @@ repository               : "ericskh2/ericskh2.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.jpg"
   name             : "Kin Hang SEW (Eric)"
   pronouns         : # example: "he/him"  
   bio              : "A Computer Science Student"
