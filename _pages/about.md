@@ -11,10 +11,10 @@ I am a MSc student at Department of Computer Science and Engineering, The Chines
 
 Research Experience
 ------
-- MSc Project, Prof. Hong Xu Henry, CUHK CSE\
-  - Topic: Simulating Performance of Distributed GPU Training and Serving, Aug 2024 - Present
-- Student Helper, Prof. James Cheng, CUHK CSE\
-  - Topic: Increase primary school students' physical activity using Artificial Intelligence, Mar 2024 - Present
+- MSc Project, Prof. Hong Xu Henry, CUHK CSE (Aug 2024 - Present)
+  - Topic: Simulating Performance of Distributed GPU Training and Serving
+- Student Helper, Prof. James Cheng, CUHK CSE (Mar 2024 - Present)
+  - Topic: Increase primary school students' physical activity using Artificial Intelligence
 
 Work Experience
 ------
