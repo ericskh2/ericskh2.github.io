@@ -25,6 +25,7 @@ Education
 ------
 - MSc in Computer Science, The Chinese University of Hong Kong (Aug 2024 - Present)
 - BSc in Computer Science, City University of Hong Kong (Aug 2020 - Jun 2024)
+  - Awarded magna cum laude (Top 2-7%)
 
 Selected Awards
 ------
