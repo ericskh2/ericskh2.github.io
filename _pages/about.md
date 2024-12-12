@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a MSc student at Department of Computer Science and Engineering, The Chinese University of Hong Kong. Previously, I received my BSc in Computer Science degree from City University of Hong Kong.
+I am Eric (蕭健恒), an MSc student at Department of Computer Science and Engineering, The Chinese University of Hong Kong. Previously, I received my BSc in Computer Science degree from City University of Hong Kong.
 
 Research Experience
 ------
