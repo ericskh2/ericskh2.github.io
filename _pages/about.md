@@ -28,7 +28,7 @@ Work Experience
 Education
 ------
 - MSc in Computer Science, The Chinese University of Hong Kong (Aug 2024 - Present)
-  - CGPA: 3.925/4.00
+  - CGPA: 3.925/4.000
 - BSc in Computer Science, City University of Hong Kong (Aug 2020 - Jun 2024)
   - Completed Artificial Intelligence Study Stream and Data Science Study Stream
   - Awarded magna cum laude (Top 7%)
