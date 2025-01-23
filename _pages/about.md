@@ -21,7 +21,7 @@ Work Experience
 - IT Assistant, JUPAS Office, The University of Hong Kong (Jul 2024 - Aug 2024)
   - Developed web applications using Java (Apache Wicket, Apache Tomcat)
   - Developed browser automation using Python (Selenium)
-- Student Programmer, Loans, Channel and Corporate Functions Section, The Bank of East Asia, Limited (Jul 2023 - Jun 2024)
+- Student Programmer,  Information Technology Department, The Bank of East Asia, Limited (Jul 2023 - Jun 2024)
   - Supported consumer loan projects using Oracle database (SQL Developer) and Unix System
   - Developed web applications using Java (JavaServer Pages) and JavaScript
   
