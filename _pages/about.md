@@ -42,7 +42,7 @@ Selected Awards
 Programming
 ------
 - Codeforces: [ericskh2](https://codeforces.com/profile/ericskh2)
-  - I didn't participate ICPC, but I love Codeforces :) 
+  - I didn't participate in ICPC, but I love Codeforces :) 
 - LeetCode: [ericskh12](https://leetcode.com/u/ericskh12/)
   - Highest contest rating: 2308 (Top 5% site-wide)
 
