@@ -42,9 +42,9 @@ Selected Awards
 Programming
 ------
 - Codeforces: [ericskh2](https://codeforces.com/profile/ericskh2)
-  - I didn't participate in ICPC, but I love Codeforces :) 
+  - OpenAI o1 and DeepSeek-R1 perform better than me :) 
 - LeetCode: [ericskh12](https://leetcode.com/u/ericskh12/)
-  - Highest contest rating: 2308 (Top 5% site-wide)
+  - Highest contest rating: 2340 (Top 5% site-wide)
 
 Skills
 ------
