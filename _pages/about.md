@@ -31,7 +31,7 @@ Education
   - CGPA: 3.925/4.000
 - BSc in Computer Science, City University of Hong Kong (Aug 2020 - Jun 2024)
   - Completed Artificial Intelligence Study Stream and Data Science Study Stream
-  - Awarded magna cum laude (Top 7% CGPA)
+  - Awarded magna cum laude (top 7% in CGPA ranking)
   
 Selected Awards
 ------
@@ -39,11 +39,18 @@ Selected Awards
 - HKSAR Government Scholarship (2023)
 - Reasonable Software Scholarships (2022)
 
+Selected Projects
+------
+- Echo Slowdown Prediction Module: [[GitHub](https://github.com/ericskh2/echo_slowdown)]
+  - Implementation of the slowdown prediction module for [Echo: Simulating Distributed Training at Scale](https://arxiv.org/abs/2412.12487)
+- Skeleton-based Elderly Action Recognition: [[YouTube](https://youtu.be/TXax_utx5E4)]
+  - Second-place solution in the Elderly Action Recognition Challenge at the WACV 2025 CV4Smalls Workshop (2nd out of 23 teams)
+
 Programming
 ------
-- Codeforces: [ericskh2](https://codeforces.com/profile/ericskh2)
+- Codeforces: [[ericskh2](https://codeforces.com/profile/ericskh2)]
   - OpenAI o1 and DeepSeek-R1 perform better than me :) 
-- LeetCode: [ericskh12](https://leetcode.com/u/ericskh12/)
+- LeetCode: [[ericskh12](https://leetcode.com/u/ericskh12/)]
   - Highest contest rating: 2340 (Top 5% site-wide)
 
 Skills
