@@ -7,14 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am Eric (Chinese name: 蕭健恒), an MSc student at Department of Computer Science and Engineering, The Chinese University of Hong Kong. Previously, I received my BSc in Computer Science degree from City University of Hong Kong.
+Hello, I am Eric (Chinese name: 蕭健恒).
 
-Research Experience
+
+Education
 ------
-- MSc Project, Prof. Hong Xu Henry, CUHK CSE (Aug 2024 - Present)
-  - Topic: Simulating Performance of Distributed GPU Training and Serving
-- Student Helper, Prof. James Cheng, CUHK CSE (Mar 2024 - Present)
-  - Topic: Increase primary school students' physical activity using Artificial Intelligence
+- MSc in Computer Science, The Chinese University of Hong Kong (Aug 2024 - Jul 2025)
+  - Awarded Dean's List (CGPA: 3.925/4.000)
+- BSc in Computer Science, City University of Hong Kong (Aug 2020 - Jun 2024)
+  - Completed Artificial Intelligence Study Stream and Data Science Study Stream
+  - Awarded magna cum laude (top 7% in CGPA ranking)
 
 Work Experience
 ------
@@ -24,15 +26,7 @@ Work Experience
 - Student Programmer, The Bank of East Asia, Limited (Jul 2023 - Jun 2024)
   - Supported consumer loan projects using Oracle database (SQL Developer) and Unix System
   - Developed web applications using Java (JavaServer Pages) and JavaScript
-  
-Education
-------
-- MSc in Computer Science, The Chinese University of Hong Kong (Aug 2024 - Present)
-  - CGPA: 3.925/4.000
-- BSc in Computer Science, City University of Hong Kong (Aug 2020 - Jun 2024)
-  - Completed Artificial Intelligence Study Stream and Data Science Study Stream
-  - Awarded magna cum laude (top 7% in CGPA ranking)
-  
+
 Selected Awards
 ------
 - Shanghai Commercial Bank Scholarships (2024)
@@ -55,7 +49,6 @@ Programming
 
 Skills
 ------
-- Programming Languages: Python, Java, SQL, C/C++, HTML, CSS, JavaScript
-- Machine Learning Systems: NVIDIA Nsight Compute, NVIDIA Nsight Systems
-- Computer Vision: PyTorch, OpenCV
+- Programming Languages: Python, Java, SQL, C/C++, HTML, CSS, JavaScript, Go
+- Machine Learning Systems: PyTorch, NVIDIA Nsight Systems, NVIDIA Nsight Compute, DeepSpeed, Megatron-LM, vLLM
 - Language: Cantonese (Native), English (Fluent), Mandarin (Fluent)
