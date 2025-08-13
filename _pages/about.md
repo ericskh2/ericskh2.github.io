@@ -9,6 +9,7 @@ redirect_from:
 
 Hello, I am Eric (Chinese name: 蕭健恒).
 
+回首向來蕭瑟處，歸去，也無風雨也無晴。
 
 Education
 ------
