@@ -61,4 +61,4 @@ Skills
 ------
 - Programming Languages: Python, Java, SQL, C/C++, HTML, CSS, JavaScript, Go
 - Machine Learning Systems: PyTorch, NVIDIA Nsight Systems, NVIDIA Nsight Compute, DeepSpeed, Megatron-LM, vLLM
-- Language: Cantonese (Native), English (Fluent), Mandarin (Fluent)
+- Language: Cantonese (Native), English (IELTS Academic Overall 7.5, L 9.0, R 8.5, W 7.0, S 6.0, Sep 2025), Mandarin (Fluent)
